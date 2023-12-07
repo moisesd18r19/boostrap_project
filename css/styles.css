@@ -1,0 +1,30 @@
+
+body{
+    background-color: black;
+    
+}
+.color{
+    color: white; 
+}
+p{
+    color: white;
+    width: 50%;
+    margin: 0 20%;
+    
+}
+p span{
+    font-weight: 1000;
+    color: rgb(187, 168, 206);
+    
+}
+button{
+    margin: 0 26%;
+}
+ form{
+    background-color:yellow;
+    width: 30%;
+    border-radius: 10px;
+    margin: 10% 32%;
+    padding: 2px 5px;
+    
+ }
